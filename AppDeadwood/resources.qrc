@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>shaders/canopy.vert</file>
+    <file>shaders/canopy.frag</file>
+    <file>shaders/genNormal.vert</file>
+    <file>shaders/genNormal.frag</file>
+    <file>shaders/skybox.vert</file>
+    <file>shaders/skybox.frag</file>
+    <file>shaders/sun.vert</file>
+    <file>shaders/sun.frag</file>
+    <file>shaders/terrain.vert</file>
+    <file>shaders/terrain.frag</file>
+    <file>shaders/vegInstances.vert</file>
+    <file>shaders/vegInstances.frag</file>
+    <file>shaders/vegInstancesId.vert</file>
+    <file>shaders/vegInstancesId.frag</file>
+</qresource>
+</RCC>
