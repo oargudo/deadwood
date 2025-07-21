@@ -31,7 +31,7 @@ After successfully building the project, you can use the ([Deploy.bat]) script t
 
 ### Windows binaries
 
-If you do not want to compile the code, you can download the precompiled [binaries](./releases/download/v1.0/app-deadwood.zip). See the [release](./releases/tag/v1.0) notes for more information. 
+If you do not want to compile the code, you can download the precompiled [binaries](https://github.com/oargudo/deadwood/releases/download/v1.0/app-deadwood.zip). See the [release](https://github.com/oargudo/deadwood/releases/tag/v1.0) notes for more information. 
 
 
 ### Running the application
